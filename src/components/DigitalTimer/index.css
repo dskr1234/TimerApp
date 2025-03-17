@@ -1,0 +1,168 @@
+/* Hex: #ffffff
+Hex: #cffcf1
+Hex: #1e293b
+Hex: #0f172a
+Hex: #defafe
+Hex: #00d9f5 
+
+.inner-container {
+  height: 50%;
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.inner-left-container {
+  height: 100%;
+  width: 50%;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.time-inner-left-container {
+  height: 180px;
+  width: 180px;
+  border-radius: 200px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.time {
+  color: #00d9f5;
+  font-size: 35px;
+}
+.timer-status {
+  color: #0f172a;
+  font-size: 20px;
+}
+.inner-right-container {
+  height: 50%;
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.status-container {
+  height: 100px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.icon-style {
+  height: 50px;
+  width: 50px;
+}
+
+*/
+* {
+  font-family: 'Roboto';
+}
+.main-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #ffffff, #cffcf1);
+  background-size: cover;
+}
+.timer-head {
+  color: #1e293b;
+  text-align: center;
+}
+.main-inner-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 600px;
+  width: 1000px;
+}
+.left {
+  height: 600px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  background-size: cover;
+  background-position: center;
+}
+.right {
+  height: 600px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.timer-inside-container {
+  height: 180px;
+  width: 180px;
+  border-radius: 200px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.button-side-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.align {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 20px;
+}
+.icon {
+  height: 35px;
+  width: 35px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+.btn-style {
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  outline: none;
+}
+.btn-style-1 {
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 40px;
+  font-weight: bold;
+}
+.btn-head {
+  color: #00d9f5;
+  font-size: 25px;
+}
+.limit-container {
+  height: 100px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.min-cont {
+  height: 35px;
+  width: 70px;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+}

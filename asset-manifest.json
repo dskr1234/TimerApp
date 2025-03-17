@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.350958fe.chunk.css",
-    "main.js": "/static/js/main.c4d6e876.chunk.js",
-    "main.js.map": "/static/js/main.c4d6e876.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0a4b3bf4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0a4b3bf4.js.map",
-    "static/js/2.5df2a54c.chunk.js": "/static/js/2.5df2a54c.chunk.js",
-    "static/js/2.5df2a54c.chunk.js.map": "/static/js/2.5df2a54c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.350958fe.chunk.css.map": "/static/css/main.350958fe.chunk.css.map",
-    "static/js/2.5df2a54c.chunk.js.LICENSE.txt": "/static/js/2.5df2a54c.chunk.js.LICENSE.txt"
+    "main.css": "/TimerApp/static/css/main.350958fe.chunk.css",
+    "main.js": "/TimerApp/static/js/main.c4d6e876.chunk.js",
+    "main.js.map": "/TimerApp/static/js/main.c4d6e876.chunk.js.map",
+    "runtime-main.js": "/TimerApp/static/js/runtime-main.e112c1f2.js",
+    "runtime-main.js.map": "/TimerApp/static/js/runtime-main.e112c1f2.js.map",
+    "static/js/2.5df2a54c.chunk.js": "/TimerApp/static/js/2.5df2a54c.chunk.js",
+    "static/js/2.5df2a54c.chunk.js.map": "/TimerApp/static/js/2.5df2a54c.chunk.js.map",
+    "index.html": "/TimerApp/index.html",
+    "static/css/main.350958fe.chunk.css.map": "/TimerApp/static/css/main.350958fe.chunk.css.map",
+    "static/js/2.5df2a54c.chunk.js.LICENSE.txt": "/TimerApp/static/js/2.5df2a54c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a4b3bf4.js",
+    "static/js/runtime-main.e112c1f2.js",
     "static/js/2.5df2a54c.chunk.js",
     "static/css/main.350958fe.chunk.css",
     "static/js/main.c4d6e876.chunk.js"
